@@ -96,7 +96,8 @@ def discover():
                     rows = ATS[ats](slug)
                     name = board_name(ats, slug) if ats == "g" else slug
                     if rows and c["match"].lower() in (name + " " + slug).lower().replace("-", ""):
-                        found.append({"co": c["co"], "ats": ats, "slug": slug})
+                        found.append({"co": c["co"], "ats": ats, "slug": slug, "jobs": len(rows),
+                                      "sample": [r[1] for r in rows[:8]], "name": name})
                         print(f"discovered {c['co']}: {ats}:{slug} ({len(rows)} jobs)")
                         break
                 except Exception:  # noqa: BLE001
@@ -115,7 +116,8 @@ def main():
     try: status_old = json.load(open("data/status.json"))
     except Exception: status_old = {}
     known_sources = set(status_old.get("ok_sources", []))
-    boards = C["boards"] + C["workday"] + discover()
+    found = discover()
+    boards = C["boards"] + C["workday"] + found
     feed, ok, failed, new = {}, [], [], []
     with cf.ThreadPoolExecutor(12) as ex:
         results = list(ex.map(run_board, boards))
@@ -151,7 +153,7 @@ def main():
     changed = stable(out) != stable(sorted(old.values(), key=lambda x: (-x["date_posted"], x["id"])))
     if changed or not old:
         json.dump(out, open("data/feed.json", "w"), indent=0, ensure_ascii=False)
-    json.dump({"ok_sources": sorted(set(ok) | known_sources), "failed": failed,
+    json.dump({"ok_sources": sorted(set(ok) | known_sources), "failed": failed, "discovered": found,
                "open": sum(1 for x in out if x["active"])}, open("data/status.json", "w"), indent=1)
     lines = [f"- **{x['company_name']}**: [{x['title']}]({x['url']}) ({', '.join(x['locations']) or 'location n/a'}; {x['radar_cat']})"
              for x in new]
