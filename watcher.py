@@ -119,6 +119,7 @@ def main():
     found = discover()
     boards = C["boards"] + C["workday"] + found
     feed, ok, failed, new = {}, [], [], []
+    b_any = {b["co"]: b["any_role"] for b in C["boards"] if b.get("any_role")}
     with cf.ThreadPoolExecutor(12) as ex:
         results = list(ex.map(run_board, boards))
     for co, key, rows, err in results:
@@ -130,8 +131,10 @@ def main():
             continue
         ok.append(co)
         kept = 0
+        anyrx = re.compile(b_any[co], re.I) if co in b_any else None
         for jid, title, loc, url, posted in rows:
             cat = classify(title)
+            if not cat and anyrx and anyrx.search(title): cat = "Full-time req (no internship posted)"
             if not cat: continue
             kept += 1
             fid = f"{key}:{jid}"

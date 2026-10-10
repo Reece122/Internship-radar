@@ -486,6 +486,12 @@
    "co": "Loft Orbital",
    "ats": "l",
    "slug": "loftorbital"
+  },
+  {
+   "co": "Merge Labs",
+   "ats": "a",
+   "slug": "Merge%20Labs",
+   "any_role": "mechanic|mechatron|hardware engineer|device engineer|manufactur"
   }
  ],
  "workday": [
@@ -594,17 +600,6 @@
  ],
  "candidates": [
   {
-   "co": "Merge Labs",
-   "match": "merge",
-   "slugs": [
-    "merge-labs",
-    "mergelabs",
-    "merge",
-    "mergelabsinc",
-    "merge-labs-inc"
-   ]
-  },
-  {
    "co": "Impulse Space",
    "match": "impulse",
    "slugs": [
@@ -678,14 +673,6 @@
    "slugs": [
     "joby",
     "jobyaviation"
-   ]
-  },
-  {
-   "co": "Vast",
-   "match": "vast",
-   "slugs": [
-    "vast",
-    "vastspace"
    ]
   }
  ]
