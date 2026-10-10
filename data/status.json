@@ -108,5 +108,41 @@
   "Zoox"
  ],
  "failed": [],
+ "discovered": [
+  {
+   "co": "Merge Labs",
+   "ats": "a",
+   "slug": "merge",
+   "jobs": 14,
+   "sample": [
+    "Integrations Engineer",
+    "Staff Software Engineer",
+    "Senior Software Engineer ",
+    "Senior Software Engineer",
+    "Sr./Staff Engineer, Agent Handler",
+    "Technical Support Engineer",
+    "Security Engineer",
+    "Engineering Manager, Agent Handler"
+   ],
+   "name": "merge"
+  },
+  {
+   "co": "Vast",
+   "ats": "g",
+   "slug": "vast",
+   "jobs": 198,
+   "sample": [
+    "Additive Manufacturing Technician ",
+    "Assembly Integration & Test Engineer, Satellites",
+    "Associate Creative Director, Brand & Design",
+    "Atlassian Technical Product Manager",
+    "Avionics Design Reliability Engineer",
+    "Avionics Manufacturing Engineer ",
+    "Avionics Manufacturing Engineer, Solar Array",
+    "Avionics Manufacturing Engineer, Wiring Harnesses "
+   ],
+   "name": "Vast"
+  }
+ ],
  "open": 484
 }
