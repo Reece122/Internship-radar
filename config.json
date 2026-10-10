@@ -1,0 +1,692 @@
+{
+ "hide": [
+  "Zipline"
+ ],
+ "rx": {
+  "intern": "\\bintern(ship)?s?\\b|\\bco-?op\\b",
+  "soft": "software|\\bswe\\b|developer|full.?stack|back.?end|front.?end|\\bweb\\b|cloud|devops|\\bdata\\b|machine learning|\\bml\\b|\\bai\\b|security|\\bit\\b|infrastructure|simulation|analytics",
+  "soft_ok": "embedded|firmware|flight software|robot|control|\\bgnc\\b|\\bhil\\b|\\bhitl\\b|hardware",
+  "drop": "account|marketing|financ|legal|recruit|human res|\\bhr\\b|sales|business|communicat|policy|talent|brand|social media|graphic|counsel|\\btax\\b|treasury|procure|supply chain|buyer|sourcing|strategy|commercial|community|customer|partnership|government|public affairs|product manage|program manage|project manage|construction|real estate|\\behs\\b|\\bcivil\\b|chemical|chemist|\\bbio|clinical|medical|nurs|\\bux\\b|\\bui\\b|writer|nuclear eng|architect|planning|estimat|research scientist|neuro",
+  "grad": "ph\\.?d|doctoral|\\bmba\\b|master'?s|\\bms\\b|graduate",
+  "undergrad": "\\bbs\\b|bachelor|undergrad",
+  "offseason": "spring|fall|winter|autumn",
+  "non_us": "canada|\\b(on|bc|qc|ab)\\b, ?can|, (on|bc|qc|ab)$|toronto|vancouver|montreal|ottawa|waterloo|united kingdom|\\buk\\b|london|germany|munich|berlin|france|paris|india|bangalore|bengaluru|hyderabad|china|shanghai|japan|tokyo|korea|singapore|australia|sydney|new zealand|auckland|\\bnz\\b|poland|warsaw|switzerland|zurich|netherlands|ireland|dublin|israel|mexico|brazil|taiwan|spain|italy|sweden|denmark|d.sseldorf|malaysia|philippines|vietnam"
+ },
+ "cats": [
+  [
+   "Hardware / Electrical",
+   "physical design|ic design|digital design|analog|mixed.signal|\\basic\\b|\\brtl\\b|\\bvlsi\\b|chip|silicon|\\bfpga\\b|logic design|design verification|circuit|\\bsoc\\b|\\bcpu\\b|\\bgpu\\b"
+  ],
+  [
+   "Mechanical",
+   "mechanic|mechanism|mechatron|\\bcad\\b|structur|thermal|fluid|\\bloads\\b|dynamics|turbomachin|product design|design engineer|tooling|composit|additive|propuls|aerodynam|aircraft|vehicle (eng|ops|oper|integ|syst)|payload|airframe|hydraulic|pneumatic|hvac|packaging eng"
+  ],
+  [
+   "Embedded / Firmware",
+   "embedded|firmware|flight software|\\bfsw\\b|\\bhil\\b|\\bhitl\\b|hardware.in.the.loop"
+  ],
+  [
+   "Controls / Robotics",
+   "control|robot|\\bgnc\\b|guidance|autonom|automation|actuator|motion"
+  ],
+  [
+   "Manufacturing",
+   "manufactur|production|process eng|industrial eng|machin|weld|quality|supplier|\\bcnc\\b|assembly|fabricat"
+  ],
+  [
+   "Test",
+   "\\btest|reliab|integration|validation|\\bait\\b|verification"
+  ],
+  [
+   "Hardware / Electrical",
+   "hardware|electrical|electronic|avionic|\\brf\\b|power|harness|battery|silicon|optic|fpga|asic|\\bpcb\\b|circuit|sensor|\\bic\\b"
+  ],
+  [
+   "General engineering",
+   "engineer|technical intern"
+  ]
+ ],
+ "boards": [
+  {
+   "co": "Mach Industries",
+   "ats": "g",
+   "slug": "machindustries"
+  },
+  {
+   "co": "Varda Space Industries",
+   "ats": "g",
+   "slug": "vardaspace"
+  },
+  {
+   "co": "Muon Space",
+   "ats": "g",
+   "slug": "muonspace"
+  },
+  {
+   "co": "Freeform",
+   "ats": "g",
+   "slug": "freeformfuturecorp"
+  },
+  {
+   "co": "Figure",
+   "ats": "g",
+   "slug": "figureai"
+  },
+  {
+   "co": "Neuralink",
+   "ats": "g",
+   "slug": "neuralink"
+  },
+  {
+   "co": "Stoke Space",
+   "ats": "g",
+   "slug": "stokespacetechnologies"
+  },
+  {
+   "co": "Pacific Fusion",
+   "ats": "g",
+   "slug": "pacificfusion"
+  },
+  {
+   "co": "JetZero",
+   "ats": "g",
+   "slug": "jetzero"
+  },
+  {
+   "co": "Epirus",
+   "ats": "g",
+   "slug": "epirus"
+  },
+  {
+   "co": "Oklo",
+   "ats": "g",
+   "slug": "oklo"
+  },
+  {
+   "co": "Redwood Materials",
+   "ats": "g",
+   "slug": "redwoodmaterials"
+  },
+  {
+   "co": "Apptronik",
+   "ats": "g",
+   "slug": "apptronik"
+  },
+  {
+   "co": "Agility Robotics",
+   "ats": "g",
+   "slug": "agilityrobotics"
+  },
+  {
+   "co": "Archer Aviation",
+   "ats": "g",
+   "slug": "archer56"
+  },
+  {
+   "co": "Ursa Major",
+   "ats": "g",
+   "slug": "ursamajor"
+  },
+  {
+   "co": "Neros Technologies",
+   "ats": "g",
+   "slug": "nerostechnologies"
+  },
+  {
+   "co": "Valar Atomics",
+   "ats": "g",
+   "slug": "valaratomics"
+  },
+  {
+   "co": "Kairos Power",
+   "ats": "g",
+   "slug": "kairospower"
+  },
+  {
+   "co": "Re:Build Manufacturing",
+   "ats": "g",
+   "slug": "rebuildmanufacturing"
+  },
+  {
+   "co": "Astranis",
+   "ats": "g",
+   "slug": "astranis"
+  },
+  {
+   "co": "K2 Space",
+   "ats": "g",
+   "slug": "k2spacecorporation"
+  },
+  {
+   "co": "Voyager Technologies",
+   "ats": "g",
+   "slug": "voyagertechnologiesinc"
+  },
+  {
+   "co": "True Anomaly",
+   "ats": "g",
+   "slug": "trueanomalyinc"
+  },
+  {
+   "co": "Divergent Technologies",
+   "ats": "g",
+   "slug": "divergent"
+  },
+  {
+   "co": "Nuro",
+   "ats": "g",
+   "slug": "nuro"
+  },
+  {
+   "co": "Formlabs",
+   "ats": "g",
+   "slug": "formlabs"
+  },
+  {
+   "co": "Zipline",
+   "ats": "g",
+   "slug": "flyzipline"
+  },
+  {
+   "co": "Vast",
+   "ats": "g",
+   "slug": "vast"
+  },
+  {
+   "co": "Scout AI",
+   "ats": "g",
+   "slug": "scoutai"
+  },
+  {
+   "co": "Inversion Space",
+   "ats": "g",
+   "slug": "inversionspace"
+  },
+  {
+   "co": "Electra",
+   "ats": "g",
+   "slug": "electraaero"
+  },
+  {
+   "co": "Antora Energy",
+   "ats": "g",
+   "slug": "antora"
+  },
+  {
+   "co": "Wing",
+   "ats": "g",
+   "slug": "wing"
+  },
+  {
+   "co": "Hermeus",
+   "ats": "l",
+   "slug": "hermeus"
+  },
+  {
+   "co": "Commonwealth Fusion Systems",
+   "ats": "l",
+   "slug": "cfsenergy"
+  },
+  {
+   "co": "Zoox",
+   "ats": "l",
+   "slug": "zoox"
+  },
+  {
+   "co": "Xcimer Energy",
+   "ats": "l",
+   "slug": "xcimer"
+  },
+  {
+   "co": "Field AI",
+   "ats": "l",
+   "slug": "field-ai"
+  },
+  {
+   "co": "Reflect Orbital",
+   "ats": "a",
+   "slug": "reflect-orbital"
+  },
+  {
+   "co": "Physical Intelligence",
+   "ats": "a",
+   "slug": "physicalintelligence"
+  },
+  {
+   "co": "Collaborative Robotics",
+   "ats": "a",
+   "slug": "cobot"
+  },
+  {
+   "co": "Swarm Aero",
+   "ats": "a",
+   "slug": "swarmaero"
+  },
+  {
+   "co": "Gecko Robotics",
+   "ats": "a",
+   "slug": "gecko-robotics"
+  },
+  {
+   "co": "Impulse Space",
+   "ats": "a",
+   "slug": "impulse"
+  },
+  {
+   "co": "Boom Supersonic",
+   "ats": "a",
+   "slug": "boom"
+  },
+  {
+   "co": "REGENT Craft",
+   "ats": "a",
+   "slug": "regent"
+  },
+  {
+   "co": "Rocket Lab",
+   "ats": "g",
+   "slug": "rocketlab"
+  },
+  {
+   "co": "Waymo",
+   "ats": "g",
+   "slug": "waymo"
+  },
+  {
+   "co": "Helion Energy",
+   "ats": "a",
+   "slug": "helion"
+  },
+  {
+   "co": "Northwood Space",
+   "ats": "a",
+   "slug": "northwoodspace"
+  },
+  {
+   "co": "Saronic Technologies",
+   "ats": "a",
+   "slug": "saronic"
+  },
+  {
+   "co": "Skydio",
+   "ats": "a",
+   "slug": "skydio"
+  },
+  {
+   "co": "Anduril Industries",
+   "ats": "g",
+   "slug": "andurilindustries"
+  },
+  {
+   "co": "SpaceX",
+   "ats": "g",
+   "slug": "spacex"
+  },
+  {
+   "co": "Allen Control Systems",
+   "ats": "g",
+   "slug": "allencontrolsystems"
+  },
+  {
+   "co": "Lightmatter",
+   "ats": "g",
+   "slug": "lightmatter"
+  },
+  {
+   "co": "1X",
+   "ats": "a",
+   "slug": "1x"
+  },
+  {
+   "co": "Base Power",
+   "ats": "a",
+   "slug": "base-power"
+  },
+  {
+   "co": "Etched",
+   "ats": "a",
+   "slug": "etched"
+  },
+  {
+   "co": "The Exploration Company",
+   "ats": "a",
+   "slug": "the-exploration-company"
+  },
+  {
+   "co": "Shield AI",
+   "ats": "l",
+   "slug": "shieldai"
+  },
+  {
+   "co": "Hadrian",
+   "ats": "a",
+   "slug": "hadrian-automation"
+  },
+  {
+   "co": "Apex",
+   "ats": "a",
+   "slug": "apex-technology-inc"
+  },
+  {
+   "co": "Persona AI",
+   "ats": "a",
+   "slug": "persona"
+  },
+  {
+   "co": "Lucid Motors",
+   "ats": "g",
+   "slug": "lucidmotors"
+  },
+  {
+   "co": "Axon",
+   "ats": "g",
+   "slug": "axon"
+  },
+  {
+   "co": "Relativity Space",
+   "ats": "g",
+   "slug": "relativity"
+  },
+  {
+   "co": "Planet",
+   "ats": "g",
+   "slug": "planetlabs"
+  },
+  {
+   "co": "Tenstorrent",
+   "ats": "g",
+   "slug": "tenstorrent"
+  },
+  {
+   "co": "Cerebras",
+   "ats": "a",
+   "slug": "cerebras"
+  },
+  {
+   "co": "Radiant",
+   "ats": "a",
+   "slug": "radiant"
+  },
+  {
+   "co": "Chaos Industries",
+   "ats": "g",
+   "slug": "chaosindustries"
+  },
+  {
+   "co": "Carbon Robotics",
+   "ats": "g",
+   "slug": "carbonrobotics"
+  },
+  {
+   "co": "Sunday Robotics",
+   "ats": "a",
+   "slug": "sunday"
+  },
+  {
+   "co": "Kodiak",
+   "ats": "g",
+   "slug": "kodiak"
+  },
+  {
+   "co": "Mainspring Energy",
+   "ats": "l",
+   "slug": "mainspringenergy"
+  },
+  {
+   "co": "Aeva",
+   "ats": "l",
+   "slug": "aeva"
+  },
+  {
+   "co": "Sila",
+   "ats": "l",
+   "slug": "sila"
+  },
+  {
+   "co": "Brinc",
+   "ats": "a",
+   "slug": "brinc"
+  },
+  {
+   "co": "Serve Robotics",
+   "ats": "a",
+   "slug": "serverobotics"
+  },
+  {
+   "co": "Auterion",
+   "ats": "g",
+   "slug": "auterion"
+  },
+  {
+   "co": "Hubble Network",
+   "ats": "g",
+   "slug": "hubblenetwork"
+  },
+  {
+   "co": "Outrider",
+   "ats": "g",
+   "slug": "outrider"
+  },
+  {
+   "co": "Formic",
+   "ats": "g",
+   "slug": "formic"
+  },
+  {
+   "co": "Pyka",
+   "ats": "l",
+   "slug": "pyka"
+  },
+  {
+   "co": "Pivotal",
+   "ats": "l",
+   "slug": "pivotal"
+  },
+  {
+   "co": "Loft Orbital",
+   "ats": "l",
+   "slug": "loftorbital"
+  }
+ ],
+ "workday": [
+  {
+   "co": "NVIDIA",
+   "host": "nvidia.wd5",
+   "tenant": "nvidia",
+   "site": "NVIDIAExternalCareerSite"
+  },
+  {
+   "co": "GE Aerospace",
+   "host": "geaerospace.wd5",
+   "tenant": "geaerospace",
+   "site": "GE_ExternalSite"
+  },
+  {
+   "co": "Northrop Grumman",
+   "host": "ngc.wd1",
+   "tenant": "ngc",
+   "site": "Northrop_Grumman_External_Site"
+  },
+  {
+   "co": "Sierra Nevada Corporation",
+   "host": "snc.wd1",
+   "tenant": "snc",
+   "site": "SNC_External_Career_Site"
+  },
+  {
+   "co": "Boston Dynamics",
+   "host": "bostondynamics.wd1",
+   "tenant": "bostondynamics",
+   "site": "Boston_Dynamics"
+  },
+  {
+   "co": "Axiom Space",
+   "host": "axiomspace.wd5",
+   "tenant": "axiomspace",
+   "site": "External_Career_Site"
+  },
+  {
+   "co": "Moog",
+   "host": "moog.wd5",
+   "tenant": "moog",
+   "site": "MOOG_External_Career_Site"
+  },
+  {
+   "co": "Intel",
+   "host": "intel.wd1",
+   "tenant": "intel",
+   "site": "External"
+  },
+  {
+   "co": "Procter & Gamble",
+   "host": "pg.wd5",
+   "tenant": "pg",
+   "site": "1000"
+  },
+  {
+   "co": "AeroVironment",
+   "host": "avav.wd1",
+   "tenant": "avav",
+   "site": "avav"
+  },
+  {
+   "co": "Blue Origin",
+   "host": "blueorigin.wd5",
+   "tenant": "blueorigin",
+   "site": "BlueOrigin"
+  },
+  {
+   "co": "RTX",
+   "host": "globalhr.wd5",
+   "tenant": "globalhr",
+   "site": "REC_RTX_Ext_Gateway"
+  },
+  {
+   "co": "ASML",
+   "host": "asml.wd3",
+   "tenant": "asml",
+   "site": "ASMLEXT1"
+  },
+  {
+   "co": "Applied Materials",
+   "host": "amat.wd1",
+   "tenant": "amat",
+   "site": "External"
+  },
+  {
+   "co": "Micron",
+   "host": "micron.wd1",
+   "tenant": "micron",
+   "site": "External"
+  },
+  {
+   "co": "Qualcomm",
+   "host": "qualcomm.wd12",
+   "tenant": "qualcomm",
+   "site": "External"
+  },
+  {
+   "co": "Boeing",
+   "host": "boeing.wd1",
+   "tenant": "boeing",
+   "site": "EXTERNAL_CAREERS"
+  }
+ ],
+ "candidates": [
+  {
+   "co": "Merge Labs",
+   "match": "merge",
+   "slugs": [
+    "merge-labs",
+    "mergelabs",
+    "merge",
+    "mergelabsinc",
+    "merge-labs-inc"
+   ]
+  },
+  {
+   "co": "Impulse Space",
+   "match": "impulse",
+   "slugs": [
+    "impulsespace",
+    "impulse-space"
+   ]
+  },
+  {
+   "co": "Castelion",
+   "match": "castelion",
+   "slugs": [
+    "castelion",
+    "castelion-corporation"
+   ]
+  },
+  {
+   "co": "Firestorm Labs",
+   "match": "firestorm",
+   "slugs": [
+    "firestorm",
+    "firestormlabs",
+    "firestorm-labs"
+   ]
+  },
+  {
+   "co": "X-Bow Systems",
+   "match": "bow",
+   "slugs": [
+    "xbow",
+    "x-bow",
+    "xbowsystems"
+   ]
+  },
+  {
+   "co": "BETA Technologies",
+   "match": "beta",
+   "slugs": [
+    "beta",
+    "betatechnologies",
+    "beta-technologies"
+   ]
+  },
+  {
+   "co": "Firefly Aerospace",
+   "match": "firefly",
+   "slugs": [
+    "firefly",
+    "fireflyaerospace",
+    "fireflyspace"
+   ]
+  },
+  {
+   "co": "Commonwealth Fusion Systems",
+   "match": "commonwealth",
+   "slugs": [
+    "cfs",
+    "commonwealthfusionsystems",
+    "commonwealth-fusion-systems"
+   ]
+  },
+  {
+   "co": "TerraPower",
+   "match": "terrapower",
+   "slugs": [
+    "terrapower"
+   ]
+  },
+  {
+   "co": "Joby Aviation",
+   "match": "joby",
+   "slugs": [
+    "joby",
+    "jobyaviation"
+   ]
+  },
+  {
+   "co": "Vast",
+   "match": "vast",
+   "slugs": [
+    "vast",
+    "vastspace"
+   ]
+  }
+ ]
+}

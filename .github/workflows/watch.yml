@@ -1,0 +1,34 @@
+name: Watch job boards
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: watch
+  cancel-in-progress: false
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Poll boards
+        run: python watcher.py
+      - name: Open an issue for new postings
+        if: hashFiles('new.md') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -s new.md ]; then gh issue create --title "$(cat new_title.txt)" --body-file new.md; fi
+      - name: Commit feed
+        run: |
+          git config user.name "internship-radar"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/feed.json data/status.json
+          git diff --cached --quiet || (git commit -q -m "Update feed" && git push -q)
