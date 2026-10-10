@@ -1,5 +1,6 @@
 {
  "hide": [
+  "Procter & Gamble",
   "Zipline"
  ],
  "rx": {
@@ -542,12 +543,6 @@
    "host": "intel.wd1",
    "tenant": "intel",
    "site": "External"
-  },
-  {
-   "co": "Procter & Gamble",
-   "host": "pg.wd5",
-   "tenant": "pg",
-   "site": "1000"
   },
   {
    "co": "AeroVironment",
