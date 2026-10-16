@@ -107,7 +107,9 @@
   "Zipline",
   "Zoox"
  ],
- "failed": [],
+ "failed": [
+  "Boeing (boeing): HTTPError: HTTP Error 503: Service Unavailable"
+ ],
  "discovered": [],
- "open": 510
+ "open": 511
 }
