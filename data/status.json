@@ -107,9 +107,7 @@
   "Zipline",
   "Zoox"
  ],
- "failed": [
-  "AeroVironment (avav): HTTPError: HTTP Error 500: Internal Server Error"
- ],
+ "failed": [],
  "discovered": [],
- "open": 514
+ "open": 519
 }
