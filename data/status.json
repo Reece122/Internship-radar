@@ -107,7 +107,9 @@
   "Zipline",
   "Zoox"
  ],
- "failed": [],
+ "failed": [
+  "Qualcomm (qualcomm): JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+ ],
  "discovered": [],
- "open": 517
+ "open": 513
 }
