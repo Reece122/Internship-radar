@@ -108,7 +108,22 @@
   "Zoox"
  ],
  "failed": [
-  "Qualcomm (qualcomm): JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+  "NVIDIA (nvidia): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "GE Aerospace (geaerospace): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "Northrop Grumman (ngc): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "Sierra Nevada Corporation (snc): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "Boston Dynamics (bostondynamics): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "Axiom Space (axiomspace): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "Moog (moog): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "Intel (intel): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "AeroVironment (avav): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "Blue Origin (blueorigin): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "RTX (globalhr): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "ASML (asml): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "Applied Materials (amat): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "Micron (micron): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "Qualcomm (qualcomm): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "Boeing (boeing): JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
  ],
  "discovered": [],
  "open": 513
