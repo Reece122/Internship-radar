@@ -107,9 +107,7 @@
   "Zipline",
   "Zoox"
  ],
- "failed": [
-  "Northrop Grumman (ngc): HTTPError: HTTP Error 502: Bad Gateway"
- ],
+ "failed": [],
  "discovered": [],
- "open": 493
+ "open": 483
 }
