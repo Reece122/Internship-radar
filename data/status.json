@@ -108,8 +108,9 @@
   "Zoox"
  ],
  "failed": [
-  "Scout AI (scoutai): HTTPError: HTTP Error 404: Not Found"
+  "Scout AI (scoutai): HTTPError: HTTP Error 404: Not Found",
+  "Carbon Robotics (carbonrobotics): HTTPError: HTTP Error 404: Not Found"
  ],
  "discovered": [],
- "open": 484
+ "open": 481
 }
