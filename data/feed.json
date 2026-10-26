@@ -1,5 +1,24 @@
 [
 {
+"id": "a:skydio:d39c46ce-a4e9-45d2-99bf-17e3b7dac34b",
+"source": "Skydio",
+"company_name": "Skydio",
+"title": "Autonomy Engineer Intern, 2027",
+"locations": [
+"San Mateo, California, United States"
+],
+"url": "https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b",
+"date_posted": 1792969746,
+"date_updated": 1792973562,
+"active": true,
+"is_visible": true,
+"terms": [
+"Summer 2027"
+],
+"category": "Hardware",
+"radar_cat": "Controls / Robotics"
+},
+{
 "id": "w:nvidia:Research-Intern--Robotics---2027_JR2028499",
 "source": "NVIDIA",
 "company_name": "NVIDIA",
@@ -9,7 +28,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---2027_JR2028499",
 "date_posted": 1792806345,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -28,7 +47,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---NVIDIA-Research_JR2028498",
 "date_posted": 1792806345,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -47,7 +66,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533",
 "date_posted": 1792797752,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -66,7 +85,7 @@
 ],
 "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---ATE-Process-Engineer--PCVD-ID1_JR115032",
 "date_posted": 1792797752,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -85,7 +104,7 @@
 ],
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874253",
 "date_posted": 1792787369,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -104,7 +123,7 @@
 ],
 "url": "https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3",
 "date_posted": 1792781948,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -123,7 +142,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Pomigliano-DArco/Internship---Production-Control_R5042085-1",
 "date_posted": 1792775535,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -142,7 +161,7 @@
 ],
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01874261",
 "date_posted": 1792775535,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -161,7 +180,7 @@
 ],
 "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Fab-10A-Singapore/Intern--Solutions-Engineer_JR109820",
 "date_posted": 1792775535,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -180,7 +199,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784",
 "date_posted": 1792775535,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -199,7 +218,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern--Embedded---2027_JR2028298",
 "date_posted": 1792775535,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -218,7 +237,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Facilities-Electrical-Internship-program_JR0288472",
 "date_posted": 1792757528,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -864,7 +883,7 @@
 ],
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Project-Engineering-Intern--Summer-2027-_01872535",
 "date_posted": 1792712000,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -902,7 +921,7 @@
 ],
 "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031186",
 "date_posted": 1792712000,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -921,7 +940,7 @@
 ],
 "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027_R0031084",
 "date_posted": 1792712000,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -940,7 +959,7 @@
 ],
 "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Mechanical-Engineer-Intern--Summer-2027-_R0031177",
 "date_posted": 1792712000,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -959,7 +978,7 @@
 ],
 "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Structural-Engineering-Intern---Summer-2027_R0031160-1",
 "date_posted": 1792712000,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -978,7 +997,7 @@
 ],
 "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031176",
 "date_posted": 1792712000,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -997,7 +1016,7 @@
 ],
 "url": "https://ursamajor.com/careers/?gh_jid=4746900005",
 "date_posted": 1792711651,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1016,7 +1035,7 @@
 ],
 "url": "https://ursamajor.com/careers/?gh_jid=4746882005",
 "date_posted": 1792707179,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1035,7 +1054,7 @@
 ],
 "url": "https://ursamajor.com/careers/?gh_jid=4746828005",
 "date_posted": 1792703733,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1054,7 +1073,7 @@
 ],
 "url": "https://ursamajor.com/careers/?gh_jid=4746825005",
 "date_posted": 1792703398,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1073,7 +1092,7 @@
 ],
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aero-Thermal-Fluids-Intern--Summer-2027---Onsite-_01882602",
 "date_posted": 1792701278,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1092,7 +1111,7 @@
 ],
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Analog-and-Power-Design-Electrical-Engineering-Intern--Summer-2027-_01871778",
 "date_posted": 1792701278,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1111,7 +1130,7 @@
 ],
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Electrical-Engineering-Intern--Summer-2027-_01867428",
 "date_posted": 1792701278,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1130,7 +1149,7 @@
 ],
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Test-Engineering-Intern--Summer-2027-_01883803-1",
 "date_posted": 1792701278,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1149,7 +1168,7 @@
 ],
 "url": "https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-19569",
 "date_posted": 1792701278,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1168,7 +1187,7 @@
 ],
 "url": "https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e",
 "date_posted": 1792697107,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1187,7 +1206,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Pomigliano-DArco/Internship---Production-Analysis_R5042045-2",
 "date_posted": 1792671107,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1206,7 +1225,7 @@
 ],
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Environmental-Health---Safety---Facilities-Engineering-Co-Op--Summer-Fall-2027-_01883110",
 "date_posted": 1792650153,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1225,7 +1244,7 @@
 ],
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Industrial-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01883163",
 "date_posted": 1792650153,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1244,7 +1263,7 @@
 ],
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01883114",
 "date_posted": 1792650153,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1263,7 +1282,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560",
 "date_posted": 1792650153,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1282,7 +1301,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055",
 "date_posted": 1792650153,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1358,7 +1377,7 @@
 ],
 "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Aerodynamics-Engineer-Intern---Summer-2027_R0031131",
 "date_posted": 1792623771,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1472,7 +1491,7 @@
 ],
 "url": "https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Manufacturing-and-Industrial-Engineering_R-26-19823",
 "date_posted": 1792612698,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1491,7 +1510,7 @@
 ],
 "url": "https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Quality-Engineering_R-26-19822",
 "date_posted": 1792612698,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1586,7 +1605,7 @@
 ],
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Spring-Summer-2027-_01883878",
 "date_posted": 1792598340,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1605,7 +1624,7 @@
 ],
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Summer-Fall-2027-_01883880",
 "date_posted": 1792598340,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1700,7 +1719,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1",
 "date_posted": 1792581380,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1776,7 +1795,7 @@
 ],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/San-Diego-CA/Electrical-Engineering-Intern_9143",
 "date_posted": 1792536202,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1871,7 +1890,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800",
 "date_posted": 1792531702,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -1890,7 +1909,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea",
 "date_posted": 1792530904,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2061,7 +2080,7 @@
 ],
 "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Vandalia-OH/Flight-Test-Engineer-Intern_R0031069",
 "date_posted": 1792525582,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2080,7 +2099,7 @@
 ],
 "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031189",
 "date_posted": 1792525582,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2099,7 +2118,7 @@
 ],
 "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0031166-1",
 "date_posted": 1792525582,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2118,7 +2137,7 @@
 ],
 "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0031180",
 "date_posted": 1792525582,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2289,7 +2308,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/DFT-Design-Engineering-Intern_JR0288321",
 "date_posted": 1792496829,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2384,7 +2403,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007202003",
 "date_posted": 1792453889,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2498,7 +2517,7 @@
 ],
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007",
 "date_posted": 1792439313,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2517,7 +2536,7 @@
 ],
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007",
 "date_posted": 1792438637,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2669,7 +2688,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982",
 "date_posted": 1792437324,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2688,7 +2707,7 @@
 ],
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007",
 "date_posted": 1792437240,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2726,7 +2745,7 @@
 ],
 "url": "https://ursamajor.com/careers/?gh_jid=4745125005",
 "date_posted": 1792432490,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2745,7 +2764,7 @@
 ],
 "url": "https://ursamajor.com/careers/?gh_jid=4745122005",
 "date_posted": 1792432323,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2764,7 +2783,7 @@
 ],
 "url": "https://ursamajor.com/careers/?gh_jid=4745111005",
 "date_posted": 1792431821,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2783,7 +2802,7 @@
 ],
 "url": "https://ursamajor.com/careers/?gh_jid=4745101005",
 "date_posted": 1792430875,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2802,7 +2821,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Manufacturing-Technician-Internship_JR0288176-1",
 "date_posted": 1792414903,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2821,7 +2840,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Intern---Interconnect-Hardware-Frontend--2027_JR2027468",
 "date_posted": 1792414903,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2840,7 +2859,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-TOP-Floorplan-Intern--2027_JR2027469",
 "date_posted": 1792414903,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2859,7 +2878,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--Robotics---2027_JR2027630",
 "date_posted": 1792414903,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -2935,7 +2954,7 @@
 ],
 "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Electrical-Engineering-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031088",
 "date_posted": 1792187869,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3049,7 +3068,7 @@
 ],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Pottstown-PA/Electrical-Engineer-Intern_9103",
 "date_posted": 1792115017,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3068,7 +3087,7 @@
 ],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Pottstown-PA/Manufacturing-Engineering-Intern_9104",
 "date_posted": 1792115017,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3087,7 +3106,7 @@
 ],
 "url": "https://axiomspace.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Houston/Mechanical-Aerospace-Engineering-Intern--Summer-2027-_JR100766",
 "date_posted": 1792115017,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3106,7 +3125,7 @@
 ],
 "url": "https://axiomspace.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Houston/Mission-Operations-Engineering-Intern--Summer-2027-_JR100765",
 "date_posted": 1792115017,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3125,7 +3144,7 @@
 ],
 "url": "https://axiomspace.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Houston/Production---Logistics-Intern--Summer-2027-_JR100770",
 "date_posted": 1792115017,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3144,7 +3163,7 @@
 ],
 "url": "https://axiomspace.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Houston/Systems-Engineering-Intern--Summer-2027-_JR100768",
 "date_posted": 1792115017,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3163,7 +3182,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4744391005",
 "date_posted": 1792108108,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3182,7 +3201,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4744390005",
 "date_posted": 1792107919,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3372,7 +3391,7 @@
 ],
 "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Engineering-Internship--Dulles-VA---Baltimore-MD-_R10256270",
 "date_posted": 1792100122,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3391,7 +3410,7 @@
 ],
 "url": "https://jobs.lever.co/cfsenergy/9690a768-362f-4df8-86a1-554b896cbc76",
 "date_posted": 1792089787,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3410,7 +3429,7 @@
 ],
 "url": "https://jobs.lever.co/cfsenergy/e3408817-347e-45bc-8627-305b75b6b978",
 "date_posted": 1792089519,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3429,7 +3448,7 @@
 ],
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882705",
 "date_posted": 1792088566,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3467,7 +3486,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
 "date_posted": 1792088566,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3524,7 +3543,7 @@
 ],
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern_01874283",
 "date_posted": 1792073883,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3619,7 +3638,7 @@
 ],
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Engineer-Intern---Test-Equipment_01874237",
 "date_posted": 1792014692,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3695,7 +3714,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b",
 "date_posted": 1792009752,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3733,7 +3752,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4743748005",
 "date_posted": 1792003476,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3752,7 +3771,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4743740005",
 "date_posted": 1792002999,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3771,7 +3790,7 @@
 ],
 "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Guidance--Navigation---Controls-Internship---Undergraduate_R71443",
 "date_posted": 1792002258,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3961,7 +3980,7 @@
 ],
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007",
 "date_posted": 1792001884,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -3980,7 +3999,7 @@
 ],
 "url": "https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683",
 "date_posted": 1791990701,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4037,7 +4056,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897",
 "date_posted": 1791986367,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4056,7 +4075,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942",
 "date_posted": 1791986367,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4208,7 +4227,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Platform-Validation-Engineering-Intern_JR0287927",
 "date_posted": 1791966662,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4303,7 +4322,7 @@
 ],
 "url": "https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e",
 "date_posted": 1791935676,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4322,7 +4341,7 @@
 ],
 "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Fluid-Systems---Propulsion-Engineering-Internship---Undergraduate_R71441",
 "date_posted": 1791935442,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4341,7 +4360,7 @@
 ],
 "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Space-Coast-FL/Summer-2027-Manufacturing-Engineering-Internship---Undergraduate_R71428",
 "date_posted": 1791935442,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4360,7 +4379,7 @@
 ],
 "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Structural---Mechanical-Engineering-Internship---Undergraduate_R71444",
 "date_posted": 1791935442,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4379,7 +4398,7 @@
 ],
 "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Test-Engineering-Internship---Undergraduate_R71433",
 "date_posted": 1791935442,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4493,7 +4512,7 @@
 ],
 "url": "https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704",
 "date_posted": 1791935155,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4512,7 +4531,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4743497005",
 "date_posted": 1791933697,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4531,7 +4550,7 @@
 ],
 "url": "https://wing.com/careers/8872480002?gh_jid=8872480002",
 "date_posted": 1791933022,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4550,7 +4569,7 @@
 ],
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007",
 "date_posted": 1791931414,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4569,7 +4588,7 @@
 ],
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007",
 "date_posted": 1791930233,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4588,7 +4607,7 @@
 ],
 "url": "https://wing.com/careers/8872475002?gh_jid=8872475002",
 "date_posted": 1791929101,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4607,7 +4626,7 @@
 ],
 "url": "https://wing.com/careers/8872469002?gh_jid=8872469002",
 "date_posted": 1791928801,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4626,7 +4645,7 @@
 ],
 "url": "https://wing.com/careers/8872470002?gh_jid=8872470002",
 "date_posted": 1791928801,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4645,7 +4664,7 @@
 ],
 "url": "https://wing.com/careers/8872473002?gh_jid=8872473002",
 "date_posted": 1791928801,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4664,7 +4683,7 @@
 ],
 "url": "https://wing.com/careers/8872578002?gh_jid=8872578002",
 "date_posted": 1791928801,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4683,7 +4702,7 @@
 ],
 "url": "https://wing.com/careers/8872579002?gh_jid=8872579002",
 "date_posted": 1791928801,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4702,7 +4721,7 @@
 ],
 "url": "https://wing.com/careers/8885631002?gh_jid=8885631002",
 "date_posted": 1791928801,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4949,7 +4968,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/apex-technology-inc/be3c0535-d2e8-4129-855d-c79b23c0c68e",
 "date_posted": 1791914301,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -4968,7 +4987,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/muonspace/jobs/5256288007",
 "date_posted": 1791914077,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -5006,7 +5025,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Muskegon/US-Engineering-Intern---Muskegon--MI---Summer-2027_R5041531-1",
 "date_posted": 1791903472,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -5139,7 +5158,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Silicon-Design---Flows-and-Methodology-Intern_JR0286647",
 "date_posted": 1791874990,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -5177,7 +5196,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Applied-Research-Intern--Robotics---2027_JR2027628",
 "date_posted": 1791874990,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -5443,7 +5462,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Applied-Deep-Learning-Algorithm-Intern--Autonomous-Driving---2027_JR2027181",
 "date_posted": 1791851621,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -5462,7 +5481,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027---Returning-Students_R5029793-1",
 "date_posted": 1791828322,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -5481,7 +5500,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Manufacturing-Engineering-Intern---US---Summer-2027---Returning-Students_R5030079-1",
 "date_posted": 1791828322,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -5500,7 +5519,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Summer-2027---Returning-Students_R5030173-1",
 "date_posted": 1791828322,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -5519,7 +5538,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027---Returning-Students_R5030174-1",
 "date_posted": 1791828322,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -5538,7 +5557,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Intern---Mechanical-Aerospace-Engineering--Avionics----US---Summer-2027---Returning-Students_R5030175",
 "date_posted": 1791828322,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -5557,7 +5576,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Mechanical-Aerospace-Engineering--Electric-Power----US---Summer-2027---Returning-Students_R5030177-1",
 "date_posted": 1791828322,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -5709,7 +5728,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Robotics-Software-Intern--Humanoid-Robotics---2027_JR2026758",
 "date_posted": 1791828322,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -5728,7 +5747,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/figureai/jobs/4721113006",
 "date_posted": 1791824840,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -5842,7 +5861,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-Al-chambers-for-N3-N5-and-more-advanced-nodes_R2626935",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -5899,7 +5918,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/College-Intern---Process-Integration_R2626676",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -5918,7 +5937,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/College-Intern--Hardware-_R2627094",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -5937,7 +5956,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/College-Intern--Hardware-_R2627095",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -5975,7 +5994,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/Industrial-Engineering-Intern_R2614287",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -5994,7 +6013,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/Industrial-Engineering-Intern_R2627142",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6013,7 +6032,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AlzenauDEU/Intern---Working-Student--m-f-d--for-PVD-Display-Engineering-in-Alzenau_R2627143",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6070,7 +6089,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/FagareITA/Mechanical-Engineer--Intern-_R2626998",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6089,7 +6108,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/Process-Engineer-Intern_R2626574",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6108,7 +6127,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/Process-Engineer-Internship--Enhancing-CVD-process-efficiency-and-film-quality-through-systematic-recipe-optimization_R2626530",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6146,7 +6165,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6165,7 +6184,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6184,7 +6203,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/TrevisoITA/Supplier-Industrial-Engineer--Internship-_R2613391",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6203,7 +6222,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/Technology-Development-Engineer---Hybrid-Bonding---Advanced-Packaging--Internship-_R2626900",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6241,7 +6260,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6260,7 +6279,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6279,7 +6298,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineer--Intern--Controls-PCB----BS-or-MS--Gloucester--MA-_R2630658",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6298,7 +6317,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Electrical-Engineer---BS-MS-Degree---Santa-Clara-_R2629428",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6317,7 +6336,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Mechanical-Engineer---BS-MS-Degree---Santa-Clara-_R2629426",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6336,7 +6355,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Process-Engineer---BS-MS-Degree--Santa-Clara--CA-_R2629424",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6355,7 +6374,7 @@
 ],
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Summer-Mechanical-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2630657",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6374,7 +6393,7 @@
 ],
 "url": "https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Veldhoven-Netherlands/Electrical-Engineering---Electronics-internship--power-delivery-optimization_J-00342631",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6412,7 +6431,7 @@
 ],
 "url": "https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Veldhoven-Netherlands/Information-Technology---Cyber-Security-internship--IT-controls-transformation_J-00353784",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6450,7 +6469,7 @@
 ],
 "url": "https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Tainan-Taiwan/Internship---Manufacturing-First-Line-Support-Engineering-Intern--Tainan_J-00352216",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6469,7 +6488,7 @@
 ],
 "url": "https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Veldhoven-Netherlands/Physics-Engineering-Internship--Supersonic-Flow-Visualization_J-00353564",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6488,7 +6507,7 @@
 ],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Huntsville-AL/Aeromechanical-Engineering-Intern_8786",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6526,7 +6545,7 @@
 ],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Petaluma-CA/Electrical-Engineering-Intern_9037",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6583,7 +6602,7 @@
 ],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Pottstown-PA/Mechanical-Engineering-Intern_8627",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6602,7 +6621,7 @@
 ],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Petaluma-CA/Mechanical-Engineering-Intern_9038",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6621,7 +6640,7 @@
 ],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Production-Engineering-Intern_8887",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6640,7 +6659,7 @@
 ],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Petaluma-CA/Quality-Engineer-Intern_9073",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6659,7 +6678,7 @@
 ],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Quality-Engineering-Intern_8586",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6678,7 +6697,7 @@
 ],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Quality-Engineering-Intern_8618",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6697,7 +6716,7 @@
 ],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Aeromechanical-Engineering-Intern_8387",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6735,7 +6754,7 @@
 ],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8556",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6752,7 +6771,7 @@
 "locations": [],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Summer-2027-Electrical-Engineering-Intern_8557",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6771,7 +6790,7 @@
 ],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8388",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6809,7 +6828,7 @@
 ],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-GNC---Autonomy-Intern_8610",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6828,7 +6847,7 @@
 ],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Manufacturing-Engineering-Intern_8608",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6866,7 +6885,7 @@
 ],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Petaluma-CA/Systems-Engineering-Intern_8592",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6885,7 +6904,7 @@
 ],
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Test-Product-Engineering-Intern_8537",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6923,7 +6942,7 @@
 ],
 "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R71436",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6942,7 +6961,7 @@
 ],
 "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Electrical-Systems-Engineering-Internship---Undergraduate_R71438",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6961,7 +6980,7 @@
 ],
 "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Space-Coast-FL/Summer-2027-Marine-Mechanical---Test-Engineering-Internship---Undergraduate_R72238",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -6980,7 +6999,7 @@
 ],
 "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---Farnborough-UK/Aerodynamics-Engineering-Intern--Summer-2027_JR2026519329",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7094,7 +7113,7 @@
 ],
 "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---Prestwick-UK/Engineering-Intern---Summer-2027_JR2026520518",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7113,7 +7132,7 @@
 ],
 "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---Sheffield-UK/Manufacturing-Engineering-Internship_JR2026524411",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7132,7 +7151,7 @@
 ],
 "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---Crawley-UK/Simulator-Engineering-Intern---12-Month-Placement_JR2026521374",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7151,7 +7170,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Edison-Works-Engineering-Intern---Aero-Design---US---Summer-2027_R5038737",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7170,7 +7189,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Edison-Works-Engineering-Intern---US---Signature-Design---Test---Summer-2027_R5038789-1",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7189,7 +7208,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7208,7 +7227,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-MBSE-Intern---Summer-2027_R5034811",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7227,7 +7246,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Springdale/Inspection-Engineering-Intern---Summer-2027_R5040956-1",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7265,7 +7284,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Manufacturing-Engineering-Intern---US---Summer-2027_R5029659",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7284,7 +7303,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Singapore/Manufacturing-Intern_R5036733-1",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7322,7 +7341,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Springdale/Military-DoD-SkillBridge-Internship---Structure-Parts-Operations-Supervisor--1st-Shift-_R5040965-1",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7341,7 +7360,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Test-Technician-Level-2---On-Wing-Support_R5040996-1",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7379,7 +7398,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Singapore/Quality-Intern_R5036384-1",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7417,7 +7436,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Summer-2027_R5030118-1",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7436,7 +7455,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027_R5030137-1",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7455,8 +7474,8 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Mechanical-Aerospace-Engineering--Electric-Power----US---Summer-2027_R5030140-1",
 "date_posted": 1791604437,
-"date_updated": 1792853416,
-"active": false,
+"date_updated": 1792973562,
+"active": true,
 "is_visible": true,
 "terms": [
 "Summer 2027"
@@ -7493,7 +7512,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7512,7 +7531,7 @@
 ],
 "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Welding-Engineering-Intern---Summer-2027_R5038782-1",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7835,7 +7854,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Compiler-Engineering-Intern_JR0287941",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7854,7 +7873,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Facilities-Engineering-Intern_JR0287227",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7873,7 +7892,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Firmware-and-Development-Tools-Intern_JR0287536",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7930,7 +7949,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Manufacturing-and-Process-Development---Intern--Bachelor-s_JR0286825",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7949,7 +7968,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Module-Engineer-Internship_JR0287294",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7968,7 +7987,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/New-Mexico-WPM-Manufacturing-Technician-Internship_JR0285454",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -7987,7 +8006,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8025,7 +8044,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8044,7 +8063,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8082,7 +8101,7 @@
 ],
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Technology-Research-2D-Transistor-Engineer-Intern_JR0287001",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8177,7 +8196,7 @@
 ],
 "url": "https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Actuation-Engineering_R-26-19536",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8196,7 +8215,7 @@
 ],
 "url": "https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Electrical-Engineering_R-26-19827",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8215,7 +8234,7 @@
 ],
 "url": "https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-20268",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8348,7 +8367,7 @@
 ],
 "url": "https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Product-Engineering_R-26-19984",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8595,7 +8614,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8614,7 +8633,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Design-and-Verification-Intern--SOC---2027_JR2024860",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8633,7 +8652,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Engineering-Intern--Networking-Chip-Design---2027_JR2023920-1",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8652,7 +8671,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Engineer--RDSS-Intern-_JR2024046",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8671,7 +8690,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Physical-Design-Intern---2027_JR2023914",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8690,7 +8709,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Intern---2027_JR2024050",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8728,7 +8747,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Circuit-Validation-Engineer-Intern---2027_JR2024949",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8747,7 +8766,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Custom-SOC-Intern---2027_JR2024692",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8766,7 +8785,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/DFT-Engineer--RDSS-Intern----2027_JR2026180",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8785,7 +8804,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Design-Verification-Engineer--RDSS-Intern-_JR2024681",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8804,7 +8823,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Firmware-Application-Engineer--RDSS-Intern-_JR2024884",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8823,7 +8842,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Humanoid-Robot-Learning-Intern--Isaac-Loco-Manipulation---2027_JR2025542",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8842,7 +8861,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Managed-Language-Compiler-Engineering-Intern---2027_JR2026437",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8880,7 +8899,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8899,7 +8918,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8918,7 +8937,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8937,7 +8956,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8956,7 +8975,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8975,7 +8994,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -8994,7 +9013,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9013,7 +9032,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9032,7 +9051,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/NVTHERM-SoC-Verification-Intern--Tegra---2027_JR2025425",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9051,7 +9070,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9070,7 +9089,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Physical-Design-Engineer--RDSS-Intern-_JR2025027",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9089,7 +9108,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Physical-Design-Intern--VLSI---2027_JR2025022-1",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9108,7 +9127,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Post-Silicon-Validation-Intern---2027_JR2025052",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9127,7 +9146,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Power-Analysis-and-Optimization-Intern---2027_JR2025535",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9146,7 +9165,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/SOC-Design-Team-Methodology-Intern---2027_JR2024861",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9165,7 +9184,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2025558",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9184,7 +9203,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Silicon-Co-design-Intern---2027_JR2025055-1",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9203,7 +9222,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Validation-Engineer--RDSS-Intern-_JR2026767",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9222,7 +9241,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Application-Engineer--RDSS-Intern-_JR2025314",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9241,7 +9260,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Engineer---LDE--RDSS-Intern-_JR2021878",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9260,7 +9279,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-Power-Management--RDSS-Intern-_JR2023967",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9279,7 +9298,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-and-Automotive--RDSS-Intern-_JR2026965",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9298,7 +9317,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/TPC-Arch-Intern--GPU-SM---2027_JR2024486",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9317,7 +9336,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Tools-and-Methodology-Engineer--CAD-DFT--RDSS-Intern-_JR2026887",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9336,7 +9355,7 @@
 ],
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/VLSI-Physical-Design-CAD-Intern---Summer-2027_JR2025048",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9469,7 +9488,7 @@
 ],
 "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Plano-TX/Electrical-Engineering-Intern--Summer-2027-_R0030740",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9545,7 +9564,7 @@
 ],
 "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Dayton-OH/Mechanical-Engineer-Intern--Summer-2027-_R0030744",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9602,7 +9621,7 @@
 ],
 "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Hagerstown-MD/Mechanical-Engineering-Intern--Summer-2027-_R0030748",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9659,7 +9678,7 @@
 ],
 "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0030750",
 "date_posted": 1791604437,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9773,7 +9792,7 @@
 ],
 "url": "https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003",
 "date_posted": 1791584916,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9792,7 +9811,7 @@
 ],
 "url": "https://jobs.lever.co/cfsenergy/a05832ae-41df-4e2d-ab86-dd3e2c4877d4",
 "date_posted": 1791570800,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9811,7 +9830,7 @@
 ],
 "url": "https://jobs.lever.co/cfsenergy/7ed4bf93-2b32-4096-9af3-2eb79e620039",
 "date_posted": 1791568128,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9830,7 +9849,7 @@
 ],
 "url": "https://jobs.lever.co/cfsenergy/01ec2ee8-b8c9-4f32-9b66-3a2ce1ff704f",
 "date_posted": 1791564236,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9849,7 +9868,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5447292008",
 "date_posted": 1791414599,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9868,7 +9887,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5447206008",
 "date_posted": 1791408641,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9887,7 +9906,7 @@
 ],
 "url": "https://jobs.lever.co/field-ai/5ae428f8-ac13-49b2-a244-fb97d31bfc79",
 "date_posted": 1791246784,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9906,7 +9925,7 @@
 ],
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007",
 "date_posted": 1791245323,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9925,7 +9944,7 @@
 ],
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007",
 "date_posted": 1791244885,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9944,7 +9963,7 @@
 ],
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007",
 "date_posted": 1791244253,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9963,7 +9982,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8013277003",
 "date_posted": 1791217668,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -9982,7 +10001,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/jetzero/jobs/5437110008",
 "date_posted": 1791211181,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10001,7 +10020,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/muonspace/jobs/5256286007",
 "date_posted": 1790986408,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10020,7 +10039,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/muonspace/jobs/5256284007",
 "date_posted": 1790986160,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10039,7 +10058,7 @@
 ],
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007",
 "date_posted": 1790959329,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10058,7 +10077,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/muonspace/jobs/5255112007",
 "date_posted": 1790902041,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10077,7 +10096,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/muonspace/jobs/5255108007",
 "date_posted": 1790901819,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10096,7 +10115,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/machindustries/jobs/4429928009",
 "date_posted": 1790879266,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10115,7 +10134,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010632003",
 "date_posted": 1790872200,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10134,7 +10153,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010158003",
 "date_posted": 1790834798,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10153,7 +10172,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010159003",
 "date_posted": 1790834623,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10172,7 +10191,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7865601003",
 "date_posted": 1790834418,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10191,7 +10210,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010166003",
 "date_posted": 1790834397,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10210,7 +10229,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010168003",
 "date_posted": 1790834291,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10229,7 +10248,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010169003",
 "date_posted": 1790834232,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10248,7 +10267,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010167003",
 "date_posted": 1790834182,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10267,7 +10286,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010170003",
 "date_posted": 1790834133,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10286,7 +10305,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010172003",
 "date_posted": 1790834086,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10305,7 +10324,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4718206006",
 "date_posted": 1790808497,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10324,7 +10343,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4708436006",
 "date_posted": 1790807759,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10343,7 +10362,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406",
 "date_posted": 1790807462,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10362,7 +10381,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97",
 "date_posted": 1790804099,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10381,7 +10400,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f",
 "date_posted": 1790804077,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10400,7 +10419,7 @@
 ],
 "url": "https://jobs.lever.co/hermeus/29c10a11-aa02-4d64-83d0-00001cbd3ac0",
 "date_posted": 1790798692,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10419,7 +10438,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/muonspace/jobs/5247725007",
 "date_posted": 1790798378,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10438,7 +10457,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/muonspace/jobs/5253474007",
 "date_posted": 1790797662,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10457,7 +10476,7 @@
 ],
 "url": "https://jobs.lever.co/xcimer/87bceb04-faeb-4365-9fed-d8f5cd3fb8ac",
 "date_posted": 1790796776,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10476,7 +10495,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/muonspace/jobs/5253432007",
 "date_posted": 1790796406,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10514,7 +10533,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/muonspace/jobs/5252680007",
 "date_posted": 1790729249,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10533,7 +10552,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/muonspace/jobs/5252677007",
 "date_posted": 1790729090,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10552,7 +10571,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8004101003",
 "date_posted": 1790715475,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10571,7 +10590,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d",
 "date_posted": 1790713332,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10590,7 +10609,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e",
 "date_posted": 1790713216,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10609,7 +10628,7 @@
 ],
 "url": "https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd",
 "date_posted": 1790650275,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10628,7 +10647,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423335009",
 "date_posted": 1790630244,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10647,7 +10666,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423308009",
 "date_posted": 1790630224,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10666,7 +10685,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423280009",
 "date_posted": 1790629156,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10685,7 +10704,7 @@
 ],
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8234553",
 "date_posted": 1790624052,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10704,7 +10723,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/helion/045d97eb-5efd-4e35-90f5-65eebe3363f4",
 "date_posted": 1790376606,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10723,7 +10742,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/machindustries/jobs/4420626009",
 "date_posted": 1790360017,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10742,7 +10761,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/machindustries/jobs/4420611009",
 "date_posted": 1790359975,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10761,7 +10780,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/machindustries/jobs/4420623009",
 "date_posted": 1790359960,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10780,7 +10799,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/machindustries/jobs/4420631009",
 "date_posted": 1790359941,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10799,7 +10818,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/reflect-orbital/7ec00657-344f-4a53-b1b2-b6623a8b95bc",
 "date_posted": 1790294167,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10818,7 +10837,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
 "date_posted": 1790290778,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10837,7 +10856,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4704820006",
 "date_posted": 1790285331,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10856,7 +10875,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4704779006",
 "date_posted": 1790285271,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10875,7 +10894,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4716499006",
 "date_posted": 1790283702,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10894,7 +10913,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4715788006",
 "date_posted": 1790270455,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10913,7 +10932,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/reflect-orbital/ed0c926a-9a52-4c84-8488-2552b1f0cca6",
 "date_posted": 1790212337,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10932,7 +10951,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4704805006",
 "date_posted": 1790204705,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10951,7 +10970,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006",
 "date_posted": 1790203937,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10970,7 +10989,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4713184006",
 "date_posted": 1790193099,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -10989,7 +11008,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/apex-technology-inc/4ed1b2ad-2eed-4342-8720-d157c53d4804",
 "date_posted": 1790178262,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11008,7 +11027,7 @@
 ],
 "url": "https://www.zipline.com/open-roles/8002829003?gh_jid=8002829003",
 "date_posted": 1790171044,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11046,7 +11065,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4704784006",
 "date_posted": 1790135055,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11065,7 +11084,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4706425006",
 "date_posted": 1790134154,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11084,7 +11103,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4706024006",
 "date_posted": 1790133525,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11103,7 +11122,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4705640006",
 "date_posted": 1790132268,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11122,7 +11141,7 @@
 ],
 "url": "https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d",
 "date_posted": 1790125225,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11141,7 +11160,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4704598006",
 "date_posted": 1790116643,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11160,7 +11179,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4705172006",
 "date_posted": 1790116343,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11198,7 +11217,7 @@
 ],
 "url": "https://jobs.lever.co/xcimer/4b031cd4-5f45-4d53-9332-dd23bc349480",
 "date_posted": 1790086788,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11217,7 +11236,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4704761006",
 "date_posted": 1790033445,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11236,7 +11255,7 @@
 ],
 "url": "https://jobs.lever.co/shieldai/da54c482-fe62-4f60-98b1-55ac0b82b3bc",
 "date_posted": 1790031331,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11274,7 +11293,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4734540005",
 "date_posted": 1790021504,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11293,7 +11312,7 @@
 ],
 "url": "https://www.zipline.com/open-roles/7999924003?gh_jid=7999924003",
 "date_posted": 1790011224,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11312,7 +11331,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8000958003",
 "date_posted": 1790006157,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11331,7 +11350,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4705255006",
 "date_posted": 1789779362,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11350,7 +11369,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4705675006",
 "date_posted": 1789779070,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11369,7 +11388,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4705648006",
 "date_posted": 1789774792,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11407,7 +11426,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996576003",
 "date_posted": 1789687393,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11426,7 +11445,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992102003",
 "date_posted": 1789687265,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11445,7 +11464,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990270003",
 "date_posted": 1789678770,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11464,7 +11483,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003",
 "date_posted": 1789678706,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11483,7 +11502,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996623003",
 "date_posted": 1789678368,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11502,7 +11521,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7998598003",
 "date_posted": 1789678272,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11521,7 +11540,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990350003",
 "date_posted": 1789669134,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11540,7 +11559,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990138003",
 "date_posted": 1789668929,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11559,7 +11578,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a",
 "date_posted": 1789613789,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11578,7 +11597,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7988835003",
 "date_posted": 1789591304,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11597,7 +11616,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989904003",
 "date_posted": 1789585428,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11616,7 +11635,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986820003",
 "date_posted": 1789585386,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11635,7 +11654,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984564003",
 "date_posted": 1789585356,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11654,7 +11673,7 @@
 ],
 "url": "https://auterion.com/company/careers-open-position/8813576002?gh_jid=8813576002",
 "date_posted": 1789563256,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11673,7 +11692,7 @@
 ],
 "url": "https://www.zipline.com/open-roles/7980932003?gh_jid=7980932003",
 "date_posted": 1789517896,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11692,7 +11711,7 @@
 ],
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
 "date_posted": 1789500009,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11730,7 +11749,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/gecko-robotics/07b4bc1b-500f-493c-ab28-383b543a3e85",
 "date_posted": 1789485759,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11749,7 +11768,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/base-power/0f7fefdb-7218-40c6-893f-859b08fb3935",
 "date_posted": 1789482114,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11806,7 +11825,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7",
 "date_posted": 1789403060,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11825,7 +11844,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991448003",
 "date_posted": 1789355778,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11863,7 +11882,7 @@
 ],
 "url": "https://jobs.lever.co/xcimer/89ffbeda-ebea-4539-9676-c6441751b95a",
 "date_posted": 1789157893,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11882,7 +11901,7 @@
 ],
 "url": "https://jobs.lever.co/xcimer/c672a37e-007d-45ee-a4f9-b5d4dd25a2e3",
 "date_posted": 1789157278,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11901,7 +11920,7 @@
 ],
 "url": "https://jobs.lever.co/xcimer/39fd5473-58a8-446c-86fb-258c1dd0f67d",
 "date_posted": 1789138882,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11920,7 +11939,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991769003",
 "date_posted": 1789134006,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11958,7 +11977,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987159003",
 "date_posted": 1789067197,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -11996,7 +12015,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986816003",
 "date_posted": 1789067150,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12015,7 +12034,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003",
 "date_posted": 1789067065,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12034,7 +12053,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/swarmaero/31565a0a-c55e-4d70-832d-8a4b5e5528ad",
 "date_posted": 1789066334,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12053,7 +12072,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/the-exploration-company/c0bd5a1e-0150-417f-9e83-afa9494d2357",
 "date_posted": 1789035298,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12072,7 +12091,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987208003",
 "date_posted": 1788997513,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12091,7 +12110,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987046003",
 "date_posted": 1788997226,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12110,7 +12129,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987250003",
 "date_posted": 1788997102,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12129,7 +12148,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990268003",
 "date_posted": 1788996996,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12148,7 +12167,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/apex-technology-inc/1a4b78cb-f601-451c-ad27-e5e03324650e",
 "date_posted": 1788996912,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12167,7 +12186,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986794003",
 "date_posted": 1788994661,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12186,7 +12205,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990365003",
 "date_posted": 1788994399,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12205,7 +12224,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989722003",
 "date_posted": 1788994199,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12224,7 +12243,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990043003",
 "date_posted": 1788994052,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12243,7 +12262,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989733003",
 "date_posted": 1788993393,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12262,7 +12281,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984600003",
 "date_posted": 1788993311,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12281,7 +12300,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398021009",
 "date_posted": 1788985572,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12300,7 +12319,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398312009",
 "date_posted": 1788984923,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12319,7 +12338,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/saronic/c7779462-3c4c-44d9-8314-1be93a0e478a",
 "date_posted": 1788983256,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12338,7 +12357,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/saronic/f52ae6eb-7eba-4c64-97c7-57e2a234e088",
 "date_posted": 1788983224,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12357,7 +12376,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97",
 "date_posted": 1788983202,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12376,7 +12395,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce",
 "date_posted": 1788983186,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12395,7 +12414,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398388009",
 "date_posted": 1788979672,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12414,7 +12433,7 @@
 ],
 "url": "https://jobs.lever.co/hermeus/b7babdb5-64ee-49ad-a193-918d6a31c462",
 "date_posted": 1788962832,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12433,7 +12452,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/the-exploration-company/df2e8a16-c9b2-4603-8bc6-b78a4addb04c",
 "date_posted": 1788951274,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12452,7 +12471,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/divergent/jobs/5350151008",
 "date_posted": 1788906841,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12471,7 +12490,7 @@
 ],
 "url": "https://jobs.lever.co/hermeus/d40446ee-40a9-4bb0-a3a8-a4a189b74630",
 "date_posted": 1788883988,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12490,7 +12509,7 @@
 ],
 "url": "https://jobs.lever.co/hermeus/944918b0-17ca-46ec-9413-5acd7086addf",
 "date_posted": 1788879319,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12509,7 +12528,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/skydio/3eb06d6e-b6f0-4814-a80a-f1c43075873b",
 "date_posted": 1788548514,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12528,7 +12547,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f",
 "date_posted": 1788548301,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12547,7 +12566,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/apex-technology-inc/d0630c64-6d20-4d15-ba75-aa125f0a3f49",
 "date_posted": 1788531278,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12566,7 +12585,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/apex-technology-inc/56b018ce-915d-4ebd-9833-c8ebb160b09a",
 "date_posted": 1788530984,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12579,13 +12598,13 @@
 "id": "a:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
 "source": "Skydio",
 "company_name": "Skydio",
-"title": "Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027",
+"title": "Autonomy Engineer Intern, Computer Vision / Deep Learning, 2027",
 "locations": [
 "San Mateo, California, United States"
 ],
 "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
 "date_posted": 1788478082,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12604,7 +12623,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/the-exploration-company/2493c3ce-e861-4a66-97a1-df97ff016cd4",
 "date_posted": 1788463894,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12623,7 +12642,7 @@
 ],
 "url": "https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7",
 "date_posted": 1788463161,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12642,7 +12661,7 @@
 ],
 "url": "https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d",
 "date_posted": 1788453301,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12661,7 +12680,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/the-exploration-company/3d844765-8fd6-4978-89f6-6bd3339cd131",
 "date_posted": 1788443556,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12680,7 +12699,7 @@
 ],
 "url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796",
 "date_posted": 1788401279,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12699,7 +12718,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b",
 "date_posted": 1788386246,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12718,7 +12737,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2",
 "date_posted": 1788386244,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12737,7 +12756,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/reflect-orbital/242494ac-5d48-4d46-9b3c-16a8da598108",
 "date_posted": 1788386235,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12756,7 +12775,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584",
 "date_posted": 1788385632,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12775,7 +12794,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/apex-technology-inc/115c16ac-bc17-49f5-ad00-f5a7e6dea07f",
 "date_posted": 1788368442,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12794,7 +12813,7 @@
 ],
 "url": "https://jobs.lever.co/hermeus/5f6a6e79-9836-4c33-b40b-a2bb6c27bd06",
 "date_posted": 1788361185,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12813,7 +12832,7 @@
 ],
 "url": "https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f",
 "date_posted": 1788312175,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12851,7 +12870,7 @@
 ],
 "url": "https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761",
 "date_posted": 1788311076,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12870,7 +12889,7 @@
 ],
 "url": "https://jobs.lever.co/hermeus/6b65768c-a8b2-4c77-8d5f-f407e32bb878",
 "date_posted": 1788310249,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12889,7 +12908,7 @@
 ],
 "url": "https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c",
 "date_posted": 1788277568,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12908,7 +12927,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6175828004",
 "date_posted": 1788276740,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12927,7 +12946,7 @@
 ],
 "url": "https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b",
 "date_posted": 1788276622,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12946,7 +12965,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411918008",
 "date_posted": 1788239356,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12965,7 +12984,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411921008",
 "date_posted": 1788239318,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -12984,7 +13003,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411919008",
 "date_posted": 1788239084,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13003,7 +13022,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411917008",
 "date_posted": 1788238964,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13022,7 +13041,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411916008",
 "date_posted": 1788238657,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13041,7 +13060,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411915008",
 "date_posted": 1788238522,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13060,7 +13079,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411914008",
 "date_posted": 1788238320,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13079,7 +13098,7 @@
 ],
 "url": "https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6",
 "date_posted": 1788228589,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13098,7 +13117,7 @@
 ],
 "url": "https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7",
 "date_posted": 1788228186,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13117,7 +13136,7 @@
 ],
 "url": "https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11",
 "date_posted": 1788209818,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13136,7 +13155,7 @@
 ],
 "url": "https://jobs.lever.co/hermeus/1bc5c858-1b04-4093-80a0-2ba3491afc60",
 "date_posted": 1788189667,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13250,7 +13269,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4728423005",
 "date_posted": 1787919450,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13269,7 +13288,7 @@
 ],
 "url": "https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a",
 "date_posted": 1787872712,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13288,7 +13307,7 @@
 ],
 "url": "https://www.zipline.com/open-roles/7978843003?gh_jid=7978843003",
 "date_posted": 1787787985,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13307,7 +13326,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7963719003",
 "date_posted": 1787590060,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13326,7 +13345,7 @@
 ],
 "url": "https://www.zipline.com/open-roles/7905428003?gh_jid=7905428003",
 "date_posted": 1787344843,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13345,7 +13364,7 @@
 ],
 "url": "https://www.zipline.com/open-roles/7918888003?gh_jid=7918888003",
 "date_posted": 1787266780,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13383,7 +13402,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895657003",
 "date_posted": 1787180359,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13402,7 +13421,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003",
 "date_posted": 1787180351,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13421,7 +13440,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895787003",
 "date_posted": 1787180343,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13440,7 +13459,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003",
 "date_posted": 1787180027,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13459,7 +13478,7 @@
 ],
 "url": "https://www.zipline.com/open-roles/7903711003?gh_jid=7903711003",
 "date_posted": 1787157018,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13478,7 +13497,7 @@
 ],
 "url": "https://www.zipline.com/open-roles/7903889003?gh_jid=7903889003",
 "date_posted": 1787156394,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13497,7 +13516,7 @@
 ],
 "url": "https://www.zipline.com/open-roles/7903483003?gh_jid=7903483003",
 "date_posted": 1787150662,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13516,7 +13535,7 @@
 ],
 "url": "https://www.zipline.com/open-roles/7886320003?gh_jid=7886320003",
 "date_posted": 1787077612,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13535,7 +13554,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003",
 "date_posted": 1787075911,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13554,7 +13573,7 @@
 ],
 "url": "https://www.zipline.com/open-roles/7866071003?gh_jid=7866071003",
 "date_posted": 1787070686,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13611,7 +13630,7 @@
 ],
 "url": "https://www.zipline.com/open-roles/7891110003?gh_jid=7891110003",
 "date_posted": 1787068300,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13649,7 +13668,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4704601006",
 "date_posted": 1786752924,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13668,7 +13687,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4704742006",
 "date_posted": 1786752914,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13687,7 +13706,7 @@
 ],
 "url": "https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002",
 "date_posted": 1785778939,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13706,7 +13725,7 @@
 ],
 "url": "https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002",
 "date_posted": 1785778855,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13725,7 +13744,7 @@
 ],
 "url": "https://www.zipline.com/open-roles/7824316003?gh_jid=7824316003",
 "date_posted": 1785774082,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13744,7 +13763,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821193003",
 "date_posted": 1785729711,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13763,7 +13782,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819101003",
 "date_posted": 1785729442,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13782,7 +13801,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821140003",
 "date_posted": 1785728020,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13801,7 +13820,7 @@
 ],
 "url": "https://jobs.lever.co/hermeus/943f51e4-5b26-432c-ae85-de5f43cadb86",
 "date_posted": 1784848898,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13820,7 +13839,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/kairospower/jobs/6123676004",
 "date_posted": 1784837012,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13839,7 +13858,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/kairospower/jobs/6123657004",
 "date_posted": 1784835998,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13858,7 +13877,7 @@
 ],
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007",
 "date_posted": 1781200284,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13877,7 +13896,7 @@
 ],
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007",
 "date_posted": 1781199262,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13896,7 +13915,7 @@
 ],
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007",
 "date_posted": 1781197256,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13915,7 +13934,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770",
 "date_posted": 1779397743,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13934,7 +13953,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/base-power/a92c9d93-eac0-4da5-b3f2-edf1eeef146b",
 "date_posted": 1779142009,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13953,7 +13972,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/base-power/6c56e236-888e-423d-9f68-764bd9a4742d",
 "date_posted": 1779139874,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13972,7 +13991,7 @@
 ],
 "url": "https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003",
 "date_posted": 1776308301,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -13991,7 +14010,7 @@
 ],
 "url": "https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724",
 "date_posted": 1776259349,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -14010,7 +14029,7 @@
 ],
 "url": "https://job-boards.greenhouse.io/allencontrolsystems/jobs/5159308008",
 "date_posted": 1774361967,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -14029,7 +14048,7 @@
 ],
 "url": "https://boards.greenhouse.io/neuralink/jobs/7666761003?gh_jid=7666761003",
 "date_posted": 1773967576,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -14048,7 +14067,7 @@
 ],
 "url": "https://boards.greenhouse.io/neuralink/jobs/7565469003?gh_jid=7565469003",
 "date_posted": 1771453743,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -14067,7 +14086,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a",
 "date_posted": 1770427798,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -14086,7 +14105,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/etched/f05e3218-5ec7-41d1-bc99-bb7014422229",
 "date_posted": 1770427710,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -14105,7 +14124,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc",
 "date_posted": 1770427192,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -14124,7 +14143,7 @@
 ],
 "url": "https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003",
 "date_posted": 1761614047,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -14143,7 +14162,7 @@
 ],
 "url": "https://boards.greenhouse.io/neuralink/jobs/6648992003?gh_jid=6648992003",
 "date_posted": 1752596628,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -14162,7 +14181,7 @@
 ],
 "url": "https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003",
 "date_posted": 1749833015,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -14181,7 +14200,7 @@
 ],
 "url": "https://boards.greenhouse.io/neuralink/jobs/6576326003?gh_jid=6576326003",
 "date_posted": 1747248590,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -14200,7 +14219,7 @@
 ],
 "url": "https://jobs.ashbyhq.com/impulse/0b03563e-e0b8-4774-b3da-5a072170614f",
 "date_posted": 1746224244,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -14219,7 +14238,7 @@
 ],
 "url": "https://boards.greenhouse.io/neuralink/jobs/6545426003?gh_jid=6545426003",
 "date_posted": 1744765986,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -14238,7 +14257,7 @@
 ],
 "url": "https://boards.greenhouse.io/neuralink/jobs/6514169003?gh_jid=6514169003",
 "date_posted": 1743200695,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -14257,7 +14276,7 @@
 ],
 "url": "https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003",
 "date_posted": 1736882007,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
@@ -14276,7 +14295,7 @@
 ],
 "url": "https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003",
 "date_posted": 1732674658,
-"date_updated": 1792957272,
+"date_updated": 1792973562,
 "active": true,
 "is_visible": true,
 "terms": [
