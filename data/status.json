@@ -110,10 +110,8 @@
  "failed": [
   "Scout AI (scoutai): HTTPError: HTTP Error 404: Not Found",
   "Allen Control Systems (allencontrolsystems): HTTPError: HTTP Error 404: Not Found",
-  "Carbon Robotics (carbonrobotics): HTTPError: HTTP Error 404: Not Found",
-  "NVIDIA (nvidia): HTTPError: HTTP Error 429: Too Many Requests",
-  "Blue Origin (blueorigin): HTTPError: HTTP Error 429: Too Many Requests"
+  "Carbon Robotics (carbonrobotics): HTTPError: HTTP Error 404: Not Found"
  ],
  "discovered": [],
- "open": 507
+ "open": 517
 }
