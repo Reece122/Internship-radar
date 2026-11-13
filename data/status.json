@@ -110,8 +110,14 @@
  "failed": [
   "Scout AI (scoutai): HTTPError: HTTP Error 404: Not Found",
   "Allen Control Systems (allencontrolsystems): HTTPError: HTTP Error 404: Not Found",
-  "Carbon Robotics (carbonrobotics): HTTPError: HTTP Error 404: Not Found"
+  "Carbon Robotics (carbonrobotics): HTTPError: HTTP Error 404: Not Found",
+  "NVIDIA (nvidia): HTTPError: HTTP Error 521: <none>",
+  "GE Aerospace (geaerospace): HTTPError: HTTP Error 521: <none>",
+  "Axiom Space (axiomspace): HTTPError: HTTP Error 521: <none>",
+  "Moog (moog): HTTPError: HTTP Error 521: <none>",
+  "Blue Origin (blueorigin): HTTPError: HTTP Error 521: <none>",
+  "RTX (globalhr): HTTPError: HTTP Error 521: <none>"
  ],
  "discovered": [],
- "open": 513
+ "open": 514
 }
