@@ -113,11 +113,19 @@
   "Carbon Robotics (carbonrobotics): HTTPError: HTTP Error 404: Not Found",
   "NVIDIA (nvidia): HTTPError: HTTP Error 521: <none>",
   "GE Aerospace (geaerospace): HTTPError: HTTP Error 521: <none>",
+  "Northrop Grumman (ngc): HTTPError: HTTP Error 521: <none>",
+  "Sierra Nevada Corporation (snc): HTTPError: HTTP Error 521: <none>",
+  "Boston Dynamics (bostondynamics): HTTPError: HTTP Error 521: <none>",
   "Axiom Space (axiomspace): HTTPError: HTTP Error 521: <none>",
   "Moog (moog): HTTPError: HTTP Error 521: <none>",
+  "Intel (intel): HTTPError: HTTP Error 521: <none>",
+  "AeroVironment (avav): HTTPError: HTTP Error 521: <none>",
   "Blue Origin (blueorigin): HTTPError: HTTP Error 521: <none>",
-  "RTX (globalhr): HTTPError: HTTP Error 521: <none>"
+  "RTX (globalhr): HTTPError: HTTP Error 521: <none>",
+  "Applied Materials (amat): HTTPError: HTTP Error 521: <none>",
+  "Micron (micron): HTTPError: HTTP Error 521: <none>",
+  "Boeing (boeing): HTTPError: HTTP Error 521: <none>"
  ],
  "discovered": [],
- "open": 514
+ "open": 516
 }
