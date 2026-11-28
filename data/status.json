@@ -110,7 +110,13 @@
  "failed": [
   "Scout AI (scoutai): HTTPError: HTTP Error 404: Not Found",
   "Allen Control Systems (allencontrolsystems): HTTPError: HTTP Error 404: Not Found",
-  "Carbon Robotics (carbonrobotics): HTTPError: HTTP Error 404: Not Found"
+  "Carbon Robotics (carbonrobotics): HTTPError: HTTP Error 404: Not Found",
+  "NVIDIA (nvidia): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "GE Aerospace (geaerospace): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "Axiom Space (axiomspace): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "Moog (moog): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "Blue Origin (blueorigin): JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "RTX (globalhr): JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
  ],
  "discovered": [],
  "open": 506
